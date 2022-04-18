@@ -1,0 +1,171 @@
+.body {
+  position: absolute;
+  height: 868px;
+  width: 550px;
+  margin-top: 0;
+  background-color: #23252c;
+  display: inline-block;
+  vertical-align: top;
+}
+.app__frame {
+  width: 317px;
+  align-items: center;
+  margin-left: 116px;
+  height: 780px;
+}
+.img-man {
+  display: block;
+  width: 317px;
+
+  margin-top: 44px;
+  border-bottom: 0cm;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+}
+.text-title {
+  height: 399px;
+  display: block;
+  background-color: #1a1b21;
+
+  margin: auto;
+}
+.title--name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  padding-top: 21px;
+
+  color: #ffffff;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.title--job {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 15px;
+  text-align: center;
+  margin-top: 6px;
+
+  color: #f3bf99;
+}
+.website {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #f5f5f5;
+}
+.btn {
+  width: 115px;
+  height: 38px;
+  margin: 7.5px;
+  padding: 0;
+  border: 0;
+  border-radius: 5px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+.btn-right {
+  background-color: #5093e2;
+  color: #ffffff;
+}
+.btn-left {
+  background-color: #d1d5db;
+  color: #374151;
+}
+
+.btn > span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.mail-img {
+  float: left;
+  width: 20px;
+  left: 20px;
+  margin: auto;
+  margin-left: 10px;
+
+  border-radius: 2px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.linkedin-img {
+  float: left;
+  width: 20px;
+  margin: auto;
+  margin-left: 10px;
+
+  border-radius: 2px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.text-body {
+  margin: auto;
+  margin-top: 25px;
+  width: 247px;
+}
+
+.mini--title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+
+  color: #f5f5f5;
+}
+.mini--text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  /* or 15px */
+
+  color: #dcdcdc;
+}
+.pre--links {
+  height: 32px;
+}
+.links {
+  background: #161619;
+  border-radius: 0px 0px 10px 10px;
+  height: 64px;
+}
+.link__div {
+  margin-left: 73px;
+  margin-right: 73px;
+  width: 171px;
+}
+.link__btn {
+  padding: 0;
+  width: 25px;
+  height: 25px;
+
+  border: 0;
+  border-radius: 4px;
+  margin: 8px;
+  margin-top: 19px;
+}
+.ling__btn__img {
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+}
